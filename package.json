@@ -2,7 +2,9 @@
   "name": "@smartholdem/client",
   "description": "A TypeScript API client for the SmartHoldem Blockchain.",
   "version": "2.0.0",
-  "contributors": [],
+  "contributors": [
+	"TechnoL0g <technolog@smartholdem.io>"
+  ],
   "license": "MIT",
   "files": [
 	"/dist"
