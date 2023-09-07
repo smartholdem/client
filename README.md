@@ -1,2 +1,2 @@
-# client
-SmartHoldem TS client
+# SmartHoldem blockchain client
+

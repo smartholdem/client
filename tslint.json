@@ -1,0 +1,9 @@
+{
+	"extends": "@typeskrift/tslint",
+	"rules": {
+		"typedef": false,
+		"no-unsafe-any": false,
+		"no-parameter-reassignment": false,
+		"interface-name": false
+	}
+}
